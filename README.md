@@ -9,16 +9,27 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
  step 1:start the program
+ 
  step 2:import pandas module and import the required data set.
+ 
  step 3:Find the null values and count them.
+ 
  step 4:Count number of left values.
+ 
  step 5:From sklearn import LabelEncoder to convert string values to numerical values.
+ 
  step 6:From sklearn.model_selection import train_test_split.
+ 
  step 7:Assign the train dataset and test dataset.
+ 
  step 8:From sklearn.tree import DecisionTreeClassifier.
+ 
  step 9:Use criteria as entropy.
+ 
  step 10:From sklearn import metrics.
+ 
  step 11:Find the accuracy of our model and predict the require values.
+ 
  step 12:End the program
 ## Program:
 ```
