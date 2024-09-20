@@ -55,12 +55,15 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 
 ### Data:
+
 ![Screenshot 2024-09-20 135323](https://github.com/user-attachments/assets/28c5a398-7f32-4b79-acd0-ec36a2c76c60)
 
 ### Accuracy:
+
 ![image](https://github.com/user-attachments/assets/b9b1dd85-7b53-4299-beda-b04dd0b7b9d3)
 
 ### Predict:
+
 ![image](https://github.com/user-attachments/assets/1b084a37-90af-4668-8285-51097e9ec346)
 
 ## Result:
